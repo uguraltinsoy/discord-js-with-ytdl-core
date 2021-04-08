@@ -1,0 +1,27 @@
+{
+  "name": "discord-js-with-ytdl-core",
+  "version": "1.0.0",
+  "description": "simple discord js and ytdl-core example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uguraltinsoy/discord-js-with-ytdl-core.git"
+  },
+  "keywords": [
+    "discord.js",
+    "ytdl-core"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uguraltinsoy/discord-js-with-ytdl-core/issues"
+  },
+  "homepage": "https://github.com/uguraltinsoy/discord-js-with-ytdl-core#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core": "^4.5.0"
+  }
+}
