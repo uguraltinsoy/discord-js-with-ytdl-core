@@ -21,6 +21,12 @@ npm i ytdl-core
   ```
 - [More information about ytdl](https://www.npmjs.com/package/ytdl-core)
 
+## Step 4
+- Running the Project
+- ```node
+   node index.js
+  ```
+
 ### Developer By
 ##### Uğur Altınsoy
 

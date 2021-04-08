@@ -14,8 +14,8 @@
     "discord.js",
     "ytdl-core"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Uğur Altınsoy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/uguraltinsoy/discord-js-with-ytdl-core/issues"
   },
